@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PedDecorationCollection>
+  <bRequiredForSync value="true" />
+  <presets>
+
+	
+		<Item>
+      <uvPos x="0.85" y="0.35" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_41_M</nameHash>
+      <txdHash>new_tattoo_41</txdHash>
+      <txtHash>new_tattoo_41</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.85" y="0.35" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_41_F</nameHash>
+      <txdHash>new_tattoo_41</txdHash>
+      <txtHash>new_tattoo_41</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.60" y="0.35" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_411_M</nameHash>
+      <txdHash>new_tattoo_41</txdHash>
+      <txtHash>new_tattoo_41</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.60" y="0.35" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_411_F</nameHash>
+      <txdHash>new_tattoo_41</txdHash>
+      <txtHash>new_tattoo_41</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.85" y="0.65" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_46_M</nameHash>
+      <txdHash>new_tattoo_46</txdHash>
+      <txtHash>new_tattoo_46</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.85" y="0.65" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_46_F</nameHash>
+      <txdHash>new_tattoo_46</txdHash>
+      <txtHash>new_tattoo_46</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		
+		<Item>
+       <uvPos x="0.65" y="0.35" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_466_M</nameHash>
+      <txdHash>new_tattoo_46</txdHash>
+      <txtHash>new_tattoo_46</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.65" y="0.35" />
+      <scale x="0.10000" y="0.10000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_466_F</nameHash>
+      <txdHash>new_tattoo_46</txdHash>
+      <txtHash>new_tattoo_46</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+ <uvPos x="0.50" y="0.60" />
+     <scale x="0.40000" y="0.40000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_56_M</nameHash>
+      <txdHash>new_tattoo_56</txdHash>
+      <txtHash>new_tattoo_56</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+        <uvPos x="0.50" y="0.60" />
+     <scale x="0.40000" y="0.40000" />
+      <rotation value="00.000000" />
+      <nameHash>new_tattoo_56_F</nameHash>
+      <txdHash>new_tattoo_56</txdHash>
+      <txtHash>new_tattoo_56</txtHash>
+      <zone>ZONE_LEFT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+	<Item>
+         <uvPos x="0.30" y="0.45" />
+     <scale x="0.15000" y="0.15000" />
+      <rotation value="00.000000" />
+      <nameHash>tat_cat_01_M</nameHash>
+      <txdHash>tat_cat_01</txdHash>
+      <txtHash>tat_cat_01</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+        <uvPos x="0.30" y="0.45" />
+     <scale x="0.15000" y="0.15000" />
+      <rotation value="00.000000" />
+      <nameHash>tat_cat_01_F</nameHash>
+      <txdHash>tat_cat_01</txdHash>
+      <txtHash>tat_cat_01</txtHash>
+      <zone>ZONE_RIGHT_ARM</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+	<Item>
+        <uvPos x="0.74" y="0.65" />
+     <scale x="0.15000" y="0.15000" />
+      <rotation value="00.000000" />
+      <nameHash>tat_rabbit_01_M</nameHash>
+      <txdHash>tat_rabbit_01</txdHash>
+      <txtHash>tat_rabbit_01</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+           <uvPos x="0.74" y="0.65" />
+     <scale x="0.15000" y="0.15000" />
+      <rotation value="00.000000" />
+      <nameHash>tat_rabbit_01_F</nameHash>
+      <txdHash>tat_rabbit_01</txdHash>
+      <txtHash>tat_rabbit_01</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		
+		<Item>
+      <uvPos x="0.85" y="0.35" />
+      <scale x="0.15000" y="0.15000" />
+      <rotation value="00.000000" />
+      <nameHash>tat_rabbit_011_M</nameHash>
+      <txdHash>tat_rabbit_01</txdHash>
+      <txtHash>tat_rabbit_01</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.85" y="0.35" />
+      <scale x="0.15000" y="0.15000" />
+      <rotation value="00.000000" />
+      <nameHash>tat_rabbit_011_F</nameHash>
+      <txdHash>tat_rabbit_01</txdHash>
+      <txtHash>tat_rabbit_01</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.60" y="0.35" />
+      <scale x="0.15000" y="0.15000" />
+      <rotation value="00.000000" />
+      <nameHash>tat_rabbit_0111_M</nameHash>
+      <txdHash>tat_rabbit_01</txdHash>
+      <txtHash>tat_rabbit_01</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_MALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+		<Item>
+      <uvPos x="0.60" y="0.35" />
+      <scale x="0.15000" y="0.15000" />
+      <rotation value="00.000000" />
+      <nameHash>tat_rabbit_0111_F</nameHash>
+      <txdHash>tat_rabbit_01</txdHash>
+      <txtHash>tat_rabbit_01</txtHash>
+      <zone>ZONE_TORSO</zone>
+      <type>TYPE_TATTOO</type>
+      <faction>FM</faction>
+      <garment>All</garment>
+      <gender>GENDER_FEMALE</gender>
+      <award />
+      <awardLevel />
+    </Item>
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+  </presets>
+  <nameHash>new_overlays</nameHash>
+  <medalLocations content="vector2_array">
+    0.140000	0.070000	
+    0.370000	0.070000	
+    0.600000	0.070000	
+    0.835000	0.070000	
+    0.140000	0.150000	
+    0.370000	0.150000	
+    0.600000	0.150000	
+    0.835000	0.150000	
+    0.140000	0.230000	
+    0.370000	0.230000	
+    0.600000	0.230000	
+    0.835000	0.230000	
+    0.100000	0.700000	
+    0.300000	0.700000	
+    0.500000	0.700000	
+    0.700000	0.700000	
+  </medalLocations>
+  <medalScale x="0.240000" y="0.100000" />
+</PedDecorationCollection>
